@@ -1,0 +1,14 @@
+/*sitio.css*/
+body{
+	background-color: GOLD;
+	font-family: Roboto;
+}
+	H1{
+color:red;
+font-family: Roboto;
+	}
+	footer{
+		text-align: :center;
+		font-size: 12pt;
+		border: solid 3px red;
+	}
